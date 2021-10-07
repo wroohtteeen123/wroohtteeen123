@@ -8,6 +8,7 @@
 - 🤮 绝了，默认打开方式竟然是Xcode
 
 // 我为什么要实名上网？
+// .DS_Store怎么删除？
 
 <!---
 jjc123-PBAS/jjc123-PBAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
