@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ：JinCheng0523@iCloud.com
 - 🥱 这要怎么用？
-- 😬 好像懂了（
+- 😬 好像懂了（感觉没懂
 - 🤮 绝了，默认打开方式竟然是Xcode
 
 // 我为什么要实名上网？
