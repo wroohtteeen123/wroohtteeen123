@@ -2,8 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 📫 How to reach me ：JinCheng0523@iCloud.com
 - 🥱 这要怎么用？
+- 😬 好像懂了（
 
 <!---
 jjc123-PBAS/jjc123-PBAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
