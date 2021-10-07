@@ -5,6 +5,7 @@
 - 📫 How to reach me ：JinCheng0523@iCloud.com
 - 🥱 这要怎么用？
 - 😬 好像懂了（
+- 🤮 绝了，默认打开方式竟然是Xcode
 
 <!---
 jjc123-PBAS/jjc123-PBAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
