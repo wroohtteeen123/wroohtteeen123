@@ -1,7 +1,4 @@
-- 👋 我是 jjc123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ..
+- 👋 我是 jjc123🍥
 - 📫 如何联系我 jincheng0523@iCloud.com
 - 🥱 这要怎么用？
 - 😬 好像懂了（感觉没懂
