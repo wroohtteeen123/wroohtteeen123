@@ -1,18 +1,13 @@
 # 是PBAS呢！
 
----
 
 - ✋🏻 我是 jjc123-PBAS🍥
 
 - 📮 如何联系我 jincheng0523@iCloud.com
 
----
-
 如何刷新网页： <kbd>Command</kbd>+<kbd>R</kbd>
 
 对了，.DS_Store要怎么删除？
-
----
 
 
 
