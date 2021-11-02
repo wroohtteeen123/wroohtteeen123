@@ -1,10 +1,11 @@
 
+这里是PBAS的页面！
+
 - ✋🏻 我是 jjc123🍥
 - 📮 如何联系我 jincheng0523@iCloud.com
 
 ---
 
-我为什么要实名上网？
 .DS_Store怎么删除？
 
 ---
