@@ -6,6 +6,10 @@
 
 ---
 
+- 💜 定时 💣 ，绝赞emo中～
+
+---
+
 - 🎵 耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶～
 
 - 🎵 O Partigiano, portami via, che mi sento di morir. 
