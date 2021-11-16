@@ -1,4 +1,4 @@
-# Ta是P.B.A.S.呢！<sup>NOT HE</sup>
+# Ta 是 PBAS 呢! <sup>NOT HE</sup>
 
 - ✋🏻 我是 jjc123-PBAS 🍥
 
