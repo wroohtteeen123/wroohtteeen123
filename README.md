@@ -1,6 +1,6 @@
 # 哦！是 PBAS 呢！
 
-改写些什么好呢？
+- 写些什么好呢？
 
 ## 她是谁呢？
 
@@ -15,13 +15,24 @@
 
 ## 在听什么歌？
 
-- 🎵 Wish You Were Here                 💽
 - 🎵 The Wall                           💽
-- 🎵 The Velvet Underground And Nico    💽
-- 🎵 The Dark Side Of The Moon          💽
-- 🎵 Hotel California                   💽
 - 🎵 Rubber Soul                        💽
 - 🎵 One Last Kiss                      💽
+- 🎵 Hotel California                   💽
+- 🎵 Wish You Were Here                 💽
+- 🎵 The Dark Side Of The Moon          💽
+- 🎵 The Velvet Underground And Nico    💽
+
+## 在听什么歌？(
+
+- 🎵 耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶～
+- 🎵 O Partigiano, portami via, che mi sento di morir. 
+
+## 还有什么呢？
+
+- 🤗 如何刷新网页：<kbd>Command</kbd>+<kbd>R</kbd> 
+- 🤗 如何录制屏幕：<kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>5</kbd>
+- 🤗 ~~对了，.DS_Store要怎么删除？~~ (原来要这样操作啊～
 
 ## 各种统计!
 
@@ -36,22 +47,13 @@
 <a href="https://github.com/jjc123-PBAS/commget-bil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjc123-PBAS&repo=commget-bil" />
 </a>
+
 <a href="https://github.com/jjc123-PBAS/jjc123-PBAS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjc123-PBAS&repo=jjc123-PBAS" />
 </a>
 <a href="https://github.com/jjc123-PBAS/jjc123-PBAS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjc123-PBAS&repo=jjc123-PBAS" />
 </a>
-
-## 在听什么歌？(
-
-- 🎵 耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶耶耶～耶耶耶耶～
-- 🎵 O Partigiano, portami via, che mi sento di morir. 
-
-## 还有什么呢？
-
-- 🤗 如何刷新网页： <kbd>Command</kbd>+<kbd>R</kbd>
-- 🤗 ~~对了，.DS_Store要怎么删除？~~ (原来要这样操作啊～
 
 <!-- -
 jjc123-PBAS/jjc123-PBAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
