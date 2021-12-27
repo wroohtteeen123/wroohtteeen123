@@ -20,8 +20,8 @@
 <a href="https://github.com/wroohtteeen123/wroohtteeen123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wroohtteeen123&repo=wroohtteeen123" />
 </a>
-<a href="https://github.com/wroohtteeen123/wroohtteeen123">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wroohtteeen123&repo=wroohtteeen123" />
+<a href="https://github.com/wroohtteeen123/V-clapper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wroohtteeen123&repo=V-clapper" />
 </a>
 
 <!-- -
