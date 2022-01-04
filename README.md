@@ -3,7 +3,7 @@
 - ✋🏻 我是 wroohtteeen123 🍥
 - 📮 如何联系我: jincheng0523@iCloud.com
 
-## 各种统计!
+## 各种统计!（没什么必要吧
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wroohtteeen123&show_icons=true)](https://github.com/wroohtteeen123)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wroohtteeen123)](https://github.com/wroohtteeen123)
